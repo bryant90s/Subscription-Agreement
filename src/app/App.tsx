@@ -10,7 +10,7 @@ import * as Checkbox from "@radix-ui/react-checkbox";
 import * as RadioGroup from "@radix-ui/react-radio-group";
 import * as Tabs from "@radix-ui/react-tabs";
 import { Check, ChevronDown, ExternalLink } from "lucide-react";
-import Logo from "figma:asset/ecf5eaa85bdd53efdca439136446b4f88b12d94a.png";
+import Logo from "../assets/srcassetshero.png";
 
 const steps = [
   { id: 1, label: "Business Info" },
